@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Rohan Chandra Sen</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/rohansen856</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/rohan856</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur</td>
+  </tr>
+</table>
